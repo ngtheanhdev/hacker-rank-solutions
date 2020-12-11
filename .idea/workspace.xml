@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5265f6c6-ef78-4db7-9d0b-bc5186e41e0e" name="Default Changelist" comment="update idea module file">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/hacker-rank-solutions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Java/1. Introduction/01. Welcome to Java!/01. Welcome to Java!.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Java/1. Introduction/02. Java Stdin and Stdout I/02. Java Stdin and Stdout I.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Java/1. Introduction/03. Java If-Else/03. Java If-Else.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Java/1. Introduction/04. Java Stdin and Stdout II/04. Java Stdin and Stdout II.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Java/1. Introduction/05. Java Output Formatting/05. Java Output Formatting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Java/1. Introduction/06. Java Loops I/06. Java Loops I.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Java/1. Introduction/07. Java Loops II/07. Java Loops II.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Java/1. Introduction/08. Java Datatypes/08. Java Datatypes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Java/1. Introduction/09. Java End-of-file/09. Java End-of-file.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Java/1. Introduction/10. Java Static Initializer Block/10. Java Static Initializer Block.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Java/1. Introduction/11. Java Int to String/11. Java Int to String.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Java/1. Introduction/12. Java Date and Time/12. Java Date and Time.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Java/1. Introduction/13. Java Currency Formatter/13. Java Currency Formatter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Java/2. Strings/01. Java Strings Introduction/01. Java Strings Introduction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Java/2. Strings/02. Java Substring/02. Java Substring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Java/2. Strings/03. Java Substring Comparisons/03. Java Substring Comparisons.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Java/2. Strings/04. Java String Reverse/04. Java String Reverse.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Java/2. Strings/05. Java Anagrams/05. Java Anagrams.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Java/2. Strings/06. Java String Tokens/06. Java String Tokens.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Java/2. Strings/07. Pattern Syntax Checker/07. Pattern Syntax Checker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Java/2. Strings/08. Java Regex/08. Java Regex.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Java/2. Strings/09. Java Regex 2 - Duplicate Words/09. Java Regex 2 - Duplicate Words.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Java/2. Strings/10. Valid Username Regular Expression/10. Valid Username Regular Expression.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Java/2. Strings/11. Tag Content Extractor/11. Tag Content Extractor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Java/3. BigNumber/01. Java BigDecimal/01. Java BigDecimal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Java/3. BigNumber/02. Java Primality Test/02. Java Primality Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Java/3. BigNumber/03. Java BigInteger/03. Java BigInteger.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Java/4. Data Structures/01. Java 1D Array/01. Java 1D Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Java/4. Data Structures/02. Java 2D Array/02. Java 2D Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Java/4. Data Structures/03. Java Subarray/03. Java Subarray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Java/4. Data Structures/04. Java Arraylist/04. Java Arraylist.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Java/4. Data Structures/05. Java 1D Array (Part 2)/05. Java 1D Array (Part 2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Java/4. Data Structures/06. Java List/06. Java List.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Java/4. Data Structures/07. Java Map/07. Java Map.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Java/4. Data Structures/08. Java Stack/08. Java Stack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Java/4. Data Structures/09. Java Hashet/09. Java Hashet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Java/4. Data Structures/10. Java Generics/10. Java Generics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Java/4. Data Structures/11. Java Comparator/11. Java Comparator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Java/4. Data Structures/12. Java Sort/12. Java Sort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Java/4. Data Structures/13. Java Dequeue/13. Java Dequeue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Java/4. Data Structures/14. Java BitSet/14. Java BitSet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Java/4. Data Structures/15. Java Priority Queue/15. Java Priority Queue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Problem Solving/Algorithms/01. Warmup/01. Solve Me First/01. Solve Me First.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Problem Solving/Algorithms/01. Warmup/02. Simple Array Sum/02. Simple Array Sum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Problem Solving/Algorithms/01. Warmup/03. Compare the Triplets/03. Compare the Triplets.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Problem Solving/Algorithms/01. Warmup/04. A Very Big Sum/04. A Very Big Sum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Problem Solving/Algorithms/01. Warmup/05. Diagonal Difference/05. Diagonal Difference.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Problem Solving/Algorithms/01. Warmup/06. Plus Minus/06. Plus Minus.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Problem Solving/Algorithms/01. Warmup/07. Staircase/07. Staircase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Problem Solving/Algorithms/01. Warmup/08. Mini-Max Sum/08. Mini-Max Sum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Problem Solving/Algorithms/01. Warmup/09. Birthday Cake Candles/09. Birthday Cake Candles.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Problem Solving/Algorithms/01. Warmup/10. Time Conversion/10. Time Conversion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Problem Solving/Algorithms/02. Implementation/11. Sales by Match/11. Sales by Match.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Problem Solving/Data Structures/01. Arrays/01. Arrays - DS/01. Arrays - DS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Tutorials/30 Days of Code/Day 0 - Hello, World/Day 0 - Hello, World.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Tutorials/30 Days of Code/Day 01 - Data Types/Day 01 - Data Types.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Tutorials/30 Days of Code/Day 02 - Operators/Day 02 - Operators.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Tutorials/30 Days of Code/Day 03 - Intro to Conditional Statements/Day 03 - Intro to Conditional Statements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Tutorials/30 Days of Code/Day 04 - Class vs Instance/Day 04 - Class vs Instance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Tutorials/30 Days of Code/Day 05 - Loops/Day 05 - Loops.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Tutorials/30 Days of Code/Day 06 - Let's Review/Day 06 - Let's Review.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Tutorials/30 Days of Code/Day 07 - Arrays/Day 07 - Arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Tutorials/30 Days of Code/Day 08 - Dictionaries and Maps/Day 08 - Dictionaries and Maps.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Tutorials/30 Days of Code/Day 09 - Recursion 3/Day 09 - Recursion 3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Tutorials/30 Days of Code/Day 10 - Binary Numbers/Day 10 - Binary Numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Tutorials/30 Days of Code/Day 11 - 2D Arrays/Day 11 - 2D Arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Tutorials/30 Days of Code/Day 12 - Inheritance/Day 12 - Inheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Tutorials/30 Days of Code/Day 13 - Abstract Classes/Day 13 - Abstract Classes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Tutorials/30 Days of Code/Day 14 - Scope/Day 14 - Scope.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Tutorials/30 Days of Code/Day 15 - Linked List/Day 15 - Linked List.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Tutorials/30 Days of Code/Day 16 - Exceptions - String to Integer/Day 16 - Exceptions - String to Integer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Tutorials/30 Days of Code/Day 17 - More Exceptions/Day 17 - More Exceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Tutorials/30 Days of Code/Day 18 - Queues and Stacks/Day 18 - Queues and Stacks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Tutorials/30 Days of Code/Day 19 - Interfaces/Day 19 - Interfaces.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Tutorials/30 Days of Code/Day 20 - Sorting/Day 20 - Sorting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Tutorials/30 Days of Code/Day 21 - Generics/Day 21 - Generics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Tutorials/30 Days of Code/Day 22 - Binary Search Trees/Day 22 - Binary Search Trees.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Tutorials/30 Days of Code/Day 23 - BST Level-Order Traversal/Day 23 - BST Level-Order Traversal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Tutorials/30 Days of Code/Day 24 - More Linked Lists/Day 24 - More Linked Lists.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Tutorials/30 Days of Code/Day 25 - Running Time and Complexity/Day 25 - Running Time and Complexity.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Tutorials/30 Days of Code/Day 26 - Nested Logic/Day 26 - Nested Logic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Tutorials/30 Days of Code/Day 27 - Testing/Day 27 - Testing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Tutorials/30 Days of Code/Day 28 - RegEx, Patterns, and Intro to Databases/Day 28 - RegEx, Patterns, and Intro to Databases.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Practice/Tutorials/30 Days of Code/Day 29 - Bitwise AND/Day 29 - Bitwise AND.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lSHq5W2kylTpZjFpzHz6q0MlLM" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/1. Practice/Java/1. Introduction/01. Welcome to Java!" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="hacker-rank-solutions" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="hacker-rank-solutions" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5265f6c6-ef78-4db7-9d0b-bc5186e41e0e" name="Default Changelist" comment="" />
+      <created>1607583759748</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607583759748</updated>
+    </task>
+    <task id="LOCAL-00001" summary="update idea module file">
+      <created>1607650409540</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607650409540</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="update idea module file" />
+    <option name="LAST_COMMIT_MESSAGE" value="update idea module file" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+</project>
