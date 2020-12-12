@@ -24,6 +24,6 @@ hs_err_pid*
 
 #IDE file
 out
-/.idea/dictionaries
-/.idea/sonarlint
-/.idea/workspace.xml
+/.idea
+!/.idea/hacker-rank-solutions.iml
+!/.idea/modules.xml
