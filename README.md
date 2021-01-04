@@ -9,7 +9,7 @@
 * [Algorithms](#Algorithms)
 * [Data Structures](#data-structures)
 
-Solutions coded using Java 8
+All problems resolved by Java 8
 
 # 30 Days of Code
 
