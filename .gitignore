@@ -25,5 +25,6 @@ hs_err_pid*
 #IDE file
 out
 /.idea
+workspace.xml
 !/.idea/hacker-rank-solutions.iml
 !/.idea/modules.xml
