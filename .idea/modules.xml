@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/Java/7. Advanced/01. Java Varargs - Simple Addition/01. Java Varargs - Simple Addition.iml" filepath="$PROJECT_DIR$/Java/7. Advanced/01. Java Varargs - Simple Addition/01. Java Varargs - Simple Addition.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithms/01. Warmup/01. Solve Me First/01. Solve Me First.iml" filepath="$PROJECT_DIR$/Algorithms/01. Warmup/01. Solve Me First/01. Solve Me First.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/1. Introduction/01. Welcome to Java/01. Welcome to Java.iml" filepath="$PROJECT_DIR$/Java/1. Introduction/01. Welcome to Java/01. Welcome to Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data Structures/01. Arrays/02. 2D Array - DS/02. 2D Array - DS.iml" filepath="$PROJECT_DIR$/Data Structures/01. Arrays/02. 2D Array - DS/02. 2D Array - DS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/4. Data Structures/02. Java 2D Array/02. Java 2D Array.iml" filepath="$PROJECT_DIR$/Java/4. Data Structures/02. Java 2D Array/02. Java 2D Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/6. Exception Handling/02. Java Exception Handling/02. Java Exception Handling.iml" filepath="$PROJECT_DIR$/Java/6. Exception Handling/02. Java Exception Handling/02. Java Exception Handling.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/5. Object Oriented Programming/02. Java Inheritance II/02. Java Inheritance II.iml" filepath="$PROJECT_DIR$/Java/5. Object Oriented Programming/02. Java Inheritance II/02. Java Inheritance II.iml" />
@@ -22,6 +23,7 @@
       <module fileurl="file://$PROJECT_DIR$/Algorithms/01. Warmup/02. Simple Array Sum/02. Simple Array Sum.iml" filepath="$PROJECT_DIR$/Algorithms/01. Warmup/02. Simple Array Sum/02. Simple Array Sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/7. Advanced/03. Can You Access/03. Can You Access.iml" filepath="$PROJECT_DIR$/Java/7. Advanced/03. Can You Access/03. Can You Access.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithms/01. Warmup/03. Compare the Triplets/03. Compare the Triplets.iml" filepath="$PROJECT_DIR$/Algorithms/01. Warmup/03. Compare the Triplets/03. Compare the Triplets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data Structures/01. Arrays/03. Dynamic Array/03. Dynamic Array.iml" filepath="$PROJECT_DIR$/Data Structures/01. Arrays/03. Dynamic Array/03. Dynamic Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/5. Object Oriented Programming/03. Java Abstract Class/03. Java Abstract Class.iml" filepath="$PROJECT_DIR$/Java/5. Object Oriented Programming/03. Java Abstract Class/03. Java Abstract Class.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/3. BigNumber/03. Java BigInteger/03. Java BigInteger.iml" filepath="$PROJECT_DIR$/Java/3. BigNumber/03. Java BigInteger/03. Java BigInteger.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/1. Introduction/03. Java If-Else/03. Java If-Else.iml" filepath="$PROJECT_DIR$/Java/1. Introduction/03. Java If-Else/03. Java If-Else.iml" />
@@ -32,6 +34,7 @@
       <module fileurl="file://$PROJECT_DIR$/Java/5. Object Oriented Programming/04. Java Interface/04. Java Interface.iml" filepath="$PROJECT_DIR$/Java/5. Object Oriented Programming/04. Java Interface/04. Java Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/1. Introduction/04. Java Stdin and Stdout II/04. Java Stdin and Stdout II.iml" filepath="$PROJECT_DIR$/Java/1. Introduction/04. Java Stdin and Stdout II/04. Java Stdin and Stdout II.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/2. Strings/04. Java String Reverse/04. Java String Reverse.iml" filepath="$PROJECT_DIR$/Java/2. Strings/04. Java String Reverse/04. Java String Reverse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data Structures/01. Arrays/04. Left Rotation/04. Left Rotation.iml" filepath="$PROJECT_DIR$/Data Structures/01. Arrays/04. Left Rotation/04. Left Rotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/7. Advanced/04. Prime Checker/04. Prime Checker.iml" filepath="$PROJECT_DIR$/Java/7. Advanced/04. Prime Checker/04. Prime Checker.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithms/01. Warmup/05. Diagonal Difference/05. Diagonal Difference.iml" filepath="$PROJECT_DIR$/Algorithms/01. Warmup/05. Diagonal Difference/05. Diagonal Difference.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/4. Data Structures/05. Java 1D Array (Part 2)/05. Java 1D Array (Part 2).iml" filepath="$PROJECT_DIR$/Java/4. Data Structures/05. Java 1D Array (Part 2)/05. Java 1D Array (Part 2).iml" />
@@ -39,6 +42,8 @@
       <module fileurl="file://$PROJECT_DIR$/Java/7. Advanced/05. Java Factory Pattern/05. Java Factory Pattern.iml" filepath="$PROJECT_DIR$/Java/7. Advanced/05. Java Factory Pattern/05. Java Factory Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/5. Object Oriented Programming/05. Java Method Overriding/05. Java Method Overriding.iml" filepath="$PROJECT_DIR$/Java/5. Object Oriented Programming/05. Java Method Overriding/05. Java Method Overriding.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/1. Introduction/05. Java Output Formatting/05. Java Output Formatting.iml" filepath="$PROJECT_DIR$/Java/1. Introduction/05. Java Output Formatting/05. Java Output Formatting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data Structures/01. Arrays/05. Sparse Arrays/05. Sparse Arrays.iml" filepath="$PROJECT_DIR$/Data Structures/01. Arrays/05. Sparse Arrays/05. Sparse Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data Structures/01. Arrays/06. Array Manipulation/06. Array Manipulation.iml" filepath="$PROJECT_DIR$/Data Structures/01. Arrays/06. Array Manipulation/06. Array Manipulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/4. Data Structures/06. Java List/06. Java List.iml" filepath="$PROJECT_DIR$/Java/4. Data Structures/06. Java List/06. Java List.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/1. Introduction/06. Java Loops I/06. Java Loops I.iml" filepath="$PROJECT_DIR$/Java/1. Introduction/06. Java Loops I/06. Java Loops I.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/5. Object Oriented Programming/06. Java Method Overriding 2 (Super Keyword)/06. Java Method Overriding 2 (Super Keyword).iml" filepath="$PROJECT_DIR$/Java/5. Object Oriented Programming/06. Java Method Overriding 2 (Super Keyword)/06. Java Method Overriding 2 (Super Keyword).iml" />
