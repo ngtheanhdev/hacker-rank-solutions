@@ -1,14 +1,30 @@
-import java.io.*;
-import java.util.List;
-import java.util.stream.IntStream;
-
 import static java.util.stream.Collectors.joining;
 import static java.util.stream.Collectors.toList;
+
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.stream.IntStream;
 
 class Result {
 
     public static List<Integer> gradingStudents(List<Integer> grades) {
-        return null;
+        int size = grades.size();
+        List<Integer> result = new ArrayList<>(size);
+        for (int grade : grades) {
+            if (grade >= 38) {
+                int gradeMod5 = grade % 5;
+                if (gradeMod5 > 2) {
+                    grade += 5 - gradeMod5;
+                }
+            }
+            result.add(grade);
+        }
+        return result;
     }
 }
 
