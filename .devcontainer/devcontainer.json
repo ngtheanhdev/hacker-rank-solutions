@@ -1,0 +1,17 @@
+{
+  "name": "Java Development Environment",
+  "image": "mcr.microsoft.com/devcontainers/java:8",
+  "features": {
+    "ghcr.io/devcontainers/features/java:1": {
+      "version": "8"
+    }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "vscjava.vscode-java-pack"
+      ]
+    }
+  },
+  "postCreateCommand": "javac -version"
+}
